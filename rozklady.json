@@ -518,5 +518,25 @@
     "sat": "06:20, 09:25, 11:40, 14:40",
     "sun": "06:20, 09:25, 11:40, 14:40",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/1.-Sobienie-Jeziory-Centrum-01.08.2025r.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Radwanków Królewski",
+    "direction": "Otwock",
+    "valid": "2026-11-02",
+    "work": "06:03, 06:53, 07:18, 08:03, 08:58, 10:18, 11:58, 13:48, 14:18, 14:53, 15:53, 16:53, 17:48, 18:08, 19:58",
+    "sat": "06:23, 09:28, 11:43, 14:43",
+    "sun": "06:23, 09:28, 11:43, 14:43",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/7.-Radwankow-Krolewski-Przy-dz.-13-3-bez-S1-01.08.2025r.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Warszawice [przy stacji CPN]",
+    "direction": "Otwock",
+    "valid": "2026-11-02",
+    "work": "06:06, 06:56, 07:21, 08:06, 09:01, 10:21, 12:01, 13:51, 14:21, 14:56, 15:56, 16:56, 17:51, 18:11, 20:01",
+    "sat": "06:26, 09:31, 11:46, 14:46",
+    "sun": "06:26, 09:31, 11:46, 14:46",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/8.-Warszawice.pdf"
   }
 ]
