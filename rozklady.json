@@ -40,6 +40,26 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/1.-Sobienie-Jeziory-Centrum-01.08.2025r.pdf"
   }, 
   {
+    "line": "S1",
+    "stop": "Sobienie Biskupie [pętla]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "05:59, 06:49, 08:04, 09:19, 13:14, 15:34, 16:59, 18:14",
+    "sat": "07:37, 10:37, 15:37, 17:49",
+    "sun": "07:37, 10:37, 15:37, 17:49",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/13.-Sobienie-Biskupie-petla-nr-01.pdf"
+  }, 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
