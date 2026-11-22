@@ -420,6 +420,26 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/12.-Sobienie-Biskupie-posesja-nr-38-nr-01-02.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Sobienie Biskupie [pętla]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:23, 08:23, 11:18, 14:38, 16:03, 16:58, 18:53, 19:53",
+    "sat": "09:58, 11:58, 17:18, 19:07",
+    "sun": "09:58, 11:58, 17:18, 19:07",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/13.-Sobienie-Biskupie-petla-nr-01.pdf"
+  },
+  {
+    "line": "S1",
+    "stop": "Sobienie Jeziory [centrum]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:30, 08:30, 11:25, 14:45, 16:10, 17:05, 19:00, 20:00",
+    "sat": "10:05, 12:05, 17:25, 19:10",
+    "sun": "10:05, 12:05, 17:25, 19:10",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/1.-Sobienie-Jeziory-Centrum-01.08.2025r.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
