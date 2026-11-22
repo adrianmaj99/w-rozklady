@@ -68,7 +68,17 @@
     "sat": "07:42, 10:42, 15:42, 17:54",
     "sun": "07:42, 10:42, 15:42, 17:54",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/11.-Warszawice-Kosciol.pdf"
-  },  
+  },
+  {
+    "line": "S1",
+    "stop": "Warszówka [świetlica wiejska]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:07, 06:57, 08:12, 09:27, 13:22, 15:42, 17:07, 18:22",
+    "sat": "07:45, 10:45, 15:45, 17:57",
+    "sun": "07:45, 10:45, 15:45, 17:57",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/10.-Warszowka-swietlica-nr-24-23.pdf"
+  },
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
