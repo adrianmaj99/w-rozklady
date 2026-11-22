@@ -360,6 +360,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/6.-Calowanie-DK-50-nr-17-26.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Całowanie [przy sklepie]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:12, 08:12, 11:07, 14:27, 15:52, 16:47, 18:42, 19:42",
+    "sat": "09:47, 11:47, 17:07, 18:54",
+    "sun": "09:47, 11:47, 17:07, 18:54",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/7.-Calowanie-przy-sklepie-nr-01-02.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
