@@ -80,6 +80,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/10.-Warszowka-swietlica-nr-24-23.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Warszówka [Wieś]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:08, 06:58, 08:13, 09:28, 13:23, 15:43, 17:08, 18:23",
+    "sat": "07:46, 10:46, 15:46, 17:58",
+    "sun": "07:46, 10:46, 15:46, 17:58",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/9.-Warszowka-wies-01.pdf"
+  },  
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
