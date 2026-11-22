@@ -320,6 +320,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/2.-Brzezinka-wies-nr-22-12.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Brzezinka [wieś 21/20]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:05, 08:05, 11:00, 14:20, 15:45, 16:40, 18:35, 19:35",
+    "sat": "09:40, 11:40, 17:00, 18:50",
+    "sun": "09:40, 11:40, 17:00, 18:50",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/3.-Brzezinka-wies-nr-21-20.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
