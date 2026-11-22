@@ -149,6 +149,18 @@
     "sun": "07:55, 10:55, 15:55, 18:07",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/3.-Brzezinka-wies-nr-21-20.pdf"
   },
+
+  {
+    "line": "S1",
+    "stop": "Brzezinka [wieś 22/12]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:18, 07:08, 08:23, 09:38, 13:33, 15:53, 17:18, 18:33",
+    "sat": "07:56, 10:56, 15:56, 18:08",
+    "sun": "07:56, 10:56, 15:56, 18:08",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/2.-Brzezinka-wies-nr-22-12.pdf"
+  },
+  
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
