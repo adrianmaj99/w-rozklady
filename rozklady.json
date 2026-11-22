@@ -410,6 +410,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/11.-Warszawice-Kosciol.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Sobienie Biskupie [nr 38]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:22, 08:22, 11:17, 14:37, 16:02, 16:57, 18:52, 19:52",
+    "sat": "09:57, 11:57, 17:17, 19:03",
+    "sun": "09:57, 11:57, 17:17, 19:03",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/12.-Sobienie-Biskupie-posesja-nr-38-nr-01-02.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
