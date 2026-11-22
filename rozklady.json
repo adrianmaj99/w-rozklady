@@ -450,6 +450,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Sobienie-Kielczewskie-skrzyzowanie-STARY-ZAMBRZYKOW.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Stary Zambrzyków [posesja nr 61]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:36, 08:36, 11:31, 14:51, 16:16, 17:11, 19:06, 20:06",
+    "sat": "10:11, 12:11, 17:31, 19:16",
+    "sun": "10:11, 12:11, 17:31, 19:16",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/15.-Stary-Zambrzykow-posesja-61.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
