@@ -440,6 +440,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/1.-Sobienie-Jeziory-Centrum-01.08.2025r.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Sobienie Kiełczewskie [skrzyżowanie]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-11-02",
+    "work": "07:35, 08:35, 11:30, 14:50, 16:15, 17:10, 19:05, 20:05",
+    "sat": "10:10, 12:10, 17:30, 19:15",
+    "sun": "10:10, 12:10, 17:30, 19:15",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Sobienie-Kielczewskie-skrzyzowanie-STARY-ZAMBRZYKOW.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
