@@ -58,7 +58,17 @@
     "sat": "07:38, 10:38, 15:38, 17:50",
     "sun": "07:38, 10:38, 15:38, 17:50",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/12.-Sobienie-Biskupie-posesja-nr-38-nr-01-02.pdf"
-  }, 
+  },
+{
+    "line": "S1",
+    "stop": "Warszawice [kościół]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:04, 06:54, 08:09, 09:24, 13:19, 15:39, 17:04, 18:19",
+    "sat": "07:42, 10:42, 15:42, 17:54",
+    "sun": "07:42, 10:42, 15:42, 17:54",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/11.-Warszawice-Kosciol.pdf"
+  },  
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
