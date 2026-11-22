@@ -239,14 +239,4 @@
     "sun": "09:22, 11:22, 16:42, 18:32",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/08/7-OTWOCK-POWSTANCOW-WARSZAWY-HOZA.pdf"
   },
-  {
-    "line": "O1",
-    "stop": "Osieck [Rynek]",
-    "direction": "Otwock",
-    "valid": "2026-11-02",
-    "work": "05:45, 06:35, 07:00, 07:45, 08:40, 10:00, 11:40, 13:30, 14:00, 14:35, 15:35, 16:35, 17:30, 17:50, 19:40",
-    "sat": "06:05, 09:10, 11:25, 14:25",
-    "sun": "06:05, 09:10, 11:25, 14:25",
-    "pdfUrl": "https:\/\/woloszka.com.pl\/wp-content\/uploads\/2026\/10\/1.-OSIECK-RYNEK-01.09.2026-1.pdf"
-  }
 ]
