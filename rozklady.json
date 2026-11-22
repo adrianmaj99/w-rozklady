@@ -618,5 +618,15 @@
     "sat": "06:41, 09:46, 12:01, 15:01",
     "sun": "06:41, 09:46, 12:01, 15:01",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/20.-Otwock-Maly-przy-sklepie.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Karczew [Częstochowska]",
+    "direction": "Otwock",
+    "valid": "2026-11-02",
+    "work": "06:23, 07:13, 07:38, 08:23, 09:18, 10:38, 12:18, 14:08, 14:38, 15:13, 16:13, 17:13, 18:08, 18:28, 20:18",
+    "sat": "06:43, 09:48, 12:03, 15:03",
+    "sun": "06:43, 09:48, 12:03, 15:03",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/9-Karczew-UL.-CZESTOCHOWSKA.pdf"
   }
 ]
