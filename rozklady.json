@@ -260,6 +260,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/26.-Otwock-SZPITAL-POWIATOWY.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Karczew [Osiedle Ługi 03]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-09-21",
+    "work": "06:54, 07:54, 10:49, 14:09, 15:34, 16:29, 18:24, 19:24",
+    "sat": "09:29, 11:29, 16:49, 18:39",
+    "sun": "09:29, 11:29, 16:49, 18:39",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
