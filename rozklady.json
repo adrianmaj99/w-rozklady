@@ -661,7 +661,7 @@
   },
   {
     "line": "O1",
-    "stop": "Karczew [Osiedle Ługi]",
+    "stop": "Karczew [Osiedle Ługi 03]",
     "direction": "Otwock",
     "valid": "2026-09-21",
     "work": "06:29, 07:19, 07:44, 08:29, 09:24, 10:34, 12:24, 14:14, 14:44, 15:19, 16:19, 17:19, 18:14, 18:34, 20:24",
@@ -688,5 +688,45 @@
     "sat": "07:25, 10:25, 13:25, 16:25",
     "sun": "07:25, 10:25, 13:25, 16:25",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/29.-Otwock-ORLA-01-02-1.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock [ul. Powstańców Warszawy / ul. Hoża]",
+    "direction": "Osieck",
+    "valid": "2026-09-01",
+    "work": "06:42, 08:17, 08:52, 09:42, 11:12, 12:42, 13:42, 14:32, 15:32, 16:02, 16:32, 17:32, 18:32, 19:32, 20:42",
+    "sat": "07:27, 10:27, 13:27, 16:27",
+    "sun": "07:27, 10:27, 13:27, 16:27",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/08/7-OTWOCK-POWSTANCOW-WARSZAWY-HOZA.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock [Park Miejski]",
+    "direction": "Osieck",
+    "valid": "2026-06-14",
+    "work": "06:44, 08:19, 08:54, 09:44, 11:14, 12:44, 13:44, 14:34, 15:34, 16:04, 16:34, 17:34, 18:34, 19:34, 20:44",
+    "sat": "07:29, 10:29, 13:29, 16:29",
+    "sun": "07:29, 10:29, 13:29, 16:29",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/6-Otwock-PARK-MIEJSKI-02-03.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock [ul. Karczewska - Szpital Powiatowy]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "06:46, 08:21, 08:56, 09:46, 11:16, 12:46, 13:46, 14:36, 15:36, 16:06, 16:36, 17:36, 18:36, 19:36, 20:46",
+    "sat": "07:31, 10:31, 13:31, 16:31",
+    "sun": "07:31, 10:31, 13:31, 16:31",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/26.-Otwock-SZPITAL-POWIATOWY.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Karczew [Osiedle Ługi 03]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "06:49, 08:24, 08:59, 09:49, 11:19, 12:49, 13:49, 14:39, 15:39, 16:09, 16:39, 17:39, 18:39, 19:39, 20:49",
+    "sat": "07:34, 10:34, 13:34, 16:34",
+    "sun": "07:34, 10:34, 13:34, 16:34",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf"
   }
 ]
