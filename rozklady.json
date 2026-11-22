@@ -19,6 +19,16 @@
     "sun": "07:24, 10:24, 15:24, 17:36",
     "pdfUrl": "https:\/\/woloszka.com.pl\/wp-content\/uploads\/2026\/06\/15.-Stary-Zambrzykow-posesja-61.pdf"
   },
+    {
+    "line": "S1",
+    "stop": "Sobienie Kiełczewskie [skrzyżowanie]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "05:47, 06:37, 07:52, 09:07, 13:02, 15:22, 16:47, 18:02",
+    "sat": "07:25, 10:25, 15:25, 17:37",
+    "sun": "07:25, 10:25, 15:25, 17:37",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Sobienie-Kielczewskie-skrzyzowanie-STARY-ZAMBRZYKOW.pdf"
+  },  
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
