@@ -130,6 +130,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/5.-Lukowiec-wies-nr-23-22.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Łukówiec [OSP]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:16, 07:06, 08:21, 09:36, 13:31, 15:51, 17:16, 18:31",
+    "sat": "07:54, 10:54, 15:54, 18:06",
+    "sun": "07:54, 10:54, 15:54, 18:06",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/4.-Lukowiec-OSP-nr-25-24.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
