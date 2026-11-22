@@ -628,5 +628,35 @@
     "sat": "06:43, 09:48, 12:03, 15:03",
     "sun": "06:43, 09:48, 12:03, 15:03",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/9-Karczew-UL.-CZESTOCHOWSKA.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Karczew [stare miasto 01 02]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:25, 07:15, 07:40, 08:25, 09:20, 10:30, 12:20, 14:10, 14:40, 15:15, 16:15, 17:15, 18:10, 18:30, 20:20",
+    "sat": "06:45, 09:50, 12:05, 15:05",
+    "sun": "06:45, 09:50, 12:05, 15:05",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/22.-Karczew-STARE-MIASTO-A4.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Karczew [pomnik kolei wąskotorowej 01 02]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:27, 07:17, 07:42, 08:27, 09:22, 10:32, 12:22, 14:12, 14:42, 15:17, 16:17, 17:17, 18:12, 18:32, 20:22",
+    "sat": "06:47, 09:52, 12:07, 15:07",
+    "sun": "06:47, 09:52, 12:07, 15:07",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/23.-Karczew-Pomnik-Kolei-Waskotprowej-A3.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Karczew [Mickiewicza/Ługi]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:28, 07:18, 07:43, 08:28, 09:23, 10:33, 12:23, 14:13, 14:43, 15:18, 16:18, 17:18, 18:13, 18:33, 20:23",
+    "sat": "06:48, 09:53, 12:08, 15:08",
+    "sun": "06:48, 09:53, 12:08, 15:08",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/24.-KARCZEW-Mickiewicza-LUGI.pdf"
   }
 ]
