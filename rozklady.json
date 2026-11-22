@@ -240,6 +240,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/08/7-OTWOCK-POWSTANCOW-WARSZAWY-HOZA.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Otwock [Park Miejski]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-09-01",
+    "work": "06:49, 07:49, 10:44, 14:04, 15:29, 16:24, 18:19, 19:19",
+    "sat": "09:22, 11:22, 16:42, 18:32",
+    "sun": "09:24, 11:24, 16:44, 18:34",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/08/6-Otwock-PARK-MIEJSKI-02-03.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
