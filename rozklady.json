@@ -245,9 +245,19 @@
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-01",
     "work": "06:49, 07:49, 10:44, 14:04, 15:29, 16:24, 18:19, 19:19",
-    "sat": "09:22, 11:22, 16:42, 18:32",
+    "sat": "09:24, 11:24, 16:44, 18:34",
     "sun": "09:24, 11:24, 16:44, 18:34",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/08/6-Otwock-PARK-MIEJSKI-02-03.pdf"
+  },
+  {
+    "line": "S1",
+    "stop": "Otwock [ul. Karczewska- Szpital Powiatowy]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-09-21",
+    "work": "06:51, 07:51, 10:46, 14:06, 15:31, 16:26, 18:21, 19:21",
+    "sat": "09:26, 11:26, 16:46, 18:36",
+    "sun": "09:26, 11:26, 16:46, 18:36",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/26.-Otwock-SZPITAL-POWIATOWY.pdf"
   },
   {
     "line": "O1",
