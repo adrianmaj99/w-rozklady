@@ -100,6 +100,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/8.-Calowanie-wies-nr-19-14.pdf"
   }, 
   {
+    "line": "S1",
+    "stop": "Całowanie [przy sklepie]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:10, 07:00, 08:15, 09:30, 13:25, 15:45, 17:10, 18:25",
+    "sat": "07:48, 10:48, 15:48, 18:00",
+    "sun": "07:48, 10:48, 15:48, 18:00",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/7.-Calowanie-przy-sklepie-nr-01-02.pdf"
+  }, 
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
