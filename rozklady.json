@@ -310,6 +310,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/1.-Janow.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Brzezinka [wieś 22/12]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:04, 08:04, 10:59, 14:19, 15:44, 16:39, 18:34, 19:34",
+    "sat": "09:39, 11:39, 16:59, 18:49",
+    "sun": "09:39, 11:39, 16:59, 18:49",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/2.-Brzezinka-wies-nr-22-12.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
