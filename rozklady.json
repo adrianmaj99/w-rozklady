@@ -340,6 +340,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/4.-Lukowiec-OSP-nr-25-24.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Łukówiec [wieś 22/23]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:07, 08:07, 11:02, 14:22, 15:47, 16:42, 18:37, 19:37",
+    "sat": "09:42, 11:42, 17:02, 18:51",
+    "sun": "09:42, 11:42, 17:02, 18:51",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/5.-Lukowiec-wies-nr-23-22.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
