@@ -270,6 +270,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Karczew [Mickiewicza/Ługi]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-09-21",
+    "work": "06:55, 07:55, 10:50, 14:10, 15:35, 16:30, 18:25, 19:25",
+    "sat": "09:30, 11:30, 16:50, 18:40",
+    "sun": "09:30, 11:30, 16:50, 18:40",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/24.-KARCZEW-Mickiewicza-LUGI.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
