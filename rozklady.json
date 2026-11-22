@@ -8,5 +8,15 @@
     "sat": "07:23, 10:23, 15:23, 17:35",
     "sun": "07:23, 10:23, 15:23, 17:35",
     "pdfUrl": "https:\/\/woloszka.com.pl\/wp-content\/uploads\/2026\/06\/16.-Stary-Zambrzykow-skrz.-do-msc.-Karczunek.pdf"
+  },
+  {
+    "line": "S1",
+    "stop": "Stary Zambrzyków [posesja nr 61]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "05:46, 06:36, 07:51, 09:06, 13:01, 15:21, 16:46, 18:01",
+    "sat": "07:24, 10:24, 15:24, 17:36",
+    "sun": "07:24, 10:24, 15:24, 17:36",
+    "pdfUrl": "https:\/\/woloszka.com.pl\/wp-content\/uploads\/2026\/06\/15.-Stary-Zambrzykow-posesja-61.pdf"
   }
 ]
