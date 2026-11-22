@@ -300,6 +300,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/22.-Karczew-STARE-MIASTO-A4.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Janów",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:01, 08:01, 10:56, 14:16, 15:41, 16:36, 18:31, 19:31",
+    "sat": "09:36, 11:36, 16:56, 18:46",
+    "sun": "09:36, 11:36, 16:56, 18:46",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/1.-Janow.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
