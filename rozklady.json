@@ -380,6 +380,26 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/8.-Calowanie-wies-nr-19-14.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Warszówka [Wieś]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:14, 08:14, 11:09, 14:29, 15:54, 16:49, 18:44, 19:44",
+    "sat": "09:49, 11:49, 17:09, 18:58",
+    "sun": "09:49, 11:49, 17:09, 18:58",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/9.-Warszowka-wies-01.pdf"
+  },
+  {
+    "line": "S1",
+    "stop": "Warszówka [świetlica wiejska]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:15, 08:15, 11:10, 14:30, 15:55, 16:50, 18:45, 19:45",
+    "sat": "09:50, 11:50, 17:10, 18:59",
+    "sun": "09:50, 11:50, 17:10, 18:59",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/10.-Warszowka-swietlica-nr-24-23.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
