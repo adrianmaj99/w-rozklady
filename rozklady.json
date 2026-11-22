@@ -568,5 +568,25 @@
     "sat": "06:34, 09:39, 11:54, 14:54",
     "sun": "06:34, 09:39, 11:54, 14:54",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/11.-Sobiekursk-skrzyzowanie-01.08.25.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Sobiekursk [przy szkole]",
+    "direction": "Otwock",
+    "valid": "2026-11-02",
+    "work": "06:15, 07:05, 07:30, 08:15, 09:10, 10:30, 12:10, 14:00, 14:30, 15:05, 16:05, 17:05, 18:00, 18:20, 20:10",
+    "sat": "06:35, 09:40, 11:55, 14:55",
+    "sun": "06:35, 09:40, 11:55, 14:55",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/12.-Sobiekursk-przy-szkole-01.08.25r.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Ostrówiec [wieś]",
+    "direction": "Otwock",
+    "valid": "2026-06-14",
+    "work": "06:17, 07:07, 07:32, 08:17, 09:12, 10:32, 12:12, 14:02, 14:32, 15:07, 16:07, 17:07, 18:02, 18:22, 20:12",
+    "sat": "06:37, 09:42, 11:57, 14:57",
+    "sun": "06:37, 09:42, 11:57, 14:57",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Ostrowiec-wies-01.08.2025.pdf"
   }
 ]
