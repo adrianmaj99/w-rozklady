@@ -668,5 +668,25 @@
     "sat": "06:49, 09:54, 12:09, 15:09",
     "sun": "06:49, 09:54, 12:09, 15:09",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock [ul. Karczewska - Szpital Powiatowy]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:32, 07:22, 07:47, 08:32, 09:27, 10:37, 12:27, 14:17, 14:47, 15:22, 16:22, 17:22, 18:17, 18:37, 20:27",
+    "sat": "06:52, 09:57, 12:12, 15:12",
+    "sun": "06:52, 09:57, 12:12, 15:12",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/26.-Otwock-SZPITAL-POWIATOWY.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock ul. Orla / ul. Świderska [przy bazarze]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "06:40, 08:15, 08:50, 09:40, 11:10, 12:40, 13:40, 14:30, 15:30, 16:00, 16:30, 17:30, 18:30, 19:30, 20:40",
+    "sat": "07:25, 10:25, 13:25, 16:25",
+    "sun": "07:25, 10:25, 13:25, 16:25",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/29.-Otwock-ORLA-01-02-1.pdf"
   }
 ]
