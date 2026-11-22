@@ -350,6 +350,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/5.-Lukowiec-wies-nr-23-22.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Całowanie [DK50]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:09, 08:09, 11:04, 14:24, 15:49, 16:44, 18:39, 19:39",
+    "sat": "09:44, 11:44, 17:04, 18:52",
+    "sun": "09:44, 11:44, 17:04, 18:52",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/6.-Calowanie-DK-50-nr-17-26.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
