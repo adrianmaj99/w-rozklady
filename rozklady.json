@@ -330,6 +330,16 @@
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/3.-Brzezinka-wies-nr-21-20.pdf"
   },
   {
+    "line": "S1",
+    "stop": "Łukówiec [OSP]",
+    "direction": "Stary Zambrzyków",
+    "valid": "2026-03-01",
+    "work": "07:06, 08:06, 11:01, 14:21, 15:46, 16:41, 18:36, 19:36",
+    "sat": "09:41, 11:41, 17:01, 18:50",
+    "sun": "09:41, 11:41, 17:01, 18:50",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/4.-Lukowiec-OSP-nr-25-24.pdf"
+  },
+  {
     "line": "O1",
     "stop": "Osieck [Rynek]",
     "direction": "Otwock",
