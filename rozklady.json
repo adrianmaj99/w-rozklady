@@ -31,7 +31,7 @@
   },
   {
     "line": "S1",
-    "stop": "Sobienie Jeziory [centrum]",
+    "stop": "Sobienie-Jeziory [centrum]",
     "direction": "Otwock",
     "valid": "2026-11-02",
     "work": "05:52, 06:42, 07:57, 09:12, 13:07, 15:27, 16:52, 18:07",
@@ -81,7 +81,7 @@
   },
   {
     "line": "S1",
-    "stop": "Warszówka [Wieś]",
+    "stop": "Warszówka [wieś]",
     "direction": "Otwock",
     "valid": "2026-03-01",
     "work": "06:08, 06:58, 08:13, 09:28, 13:23, 15:43, 17:08, 18:23",
@@ -171,7 +171,7 @@
   },
   {
     "line": "S1",
-    "stop": "Karczew [STARE MIASTO 01 02]",
+    "stop": "Karczew [stare miasto 01 02]",
     "direction": "Otwock",
     "valid": "2026-09-21",
     "work": "06:24, 07:14, 08:29, 09:44, 13:39, 15:59, 17:24, 18:39",
@@ -181,7 +181,7 @@
   },
   {
     "line": "S1",
-    "stop": "Karczew [Pomnik Kolei Wąskotorowej 01 02]",
+    "stop": "Karczew [pomnik kolei wąskotorowej 01 02]",
     "direction": "Otwock",
     "valid": "2026-09-21",
     "work": "06:26, 07:16, 08:31, 09:46, 13:41, 16:01, 17:26, 18:41",
@@ -211,7 +211,7 @@
   },
    {
     "line": "S1",
-    "stop": "Otwock [ul. Karczewska- Szpital Powiatowy]",
+    "stop": "Otwock [ul. Karczewska - Szpital Powiatowy]",
     "direction": "Otwock",
     "valid": "2026-09-21",
     "work": "06:31, 07:21, 08:36, 09:51, 13:46, 16:06, 17:31, 18:46",
@@ -221,7 +221,7 @@
   },
   {
     "line": "S1",
-    "stop": "Otwock ul. Orla/ Świderska [przy bazarze]",
+    "stop": "Otwock ul. Orla / ul. Świderska [przy bazarze]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-21",
     "work": "06:45, 07:45, 10:40, 14:00, 15:25, 16:20, 18:15, 19:15",
@@ -231,7 +231,7 @@
   },
   {
     "line": "S1",
-    "stop": "Otwock [Powstańców Warszawy/ Hoża]",
+    "stop": "Otwock [ul. Powstańców Warszawy / ul. Hoża]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-01",
     "work": "06:47, 07:47, 10:42, 14:02, 15:27, 16:22, 18:17, 19:17",
@@ -251,7 +251,7 @@
   },
   {
     "line": "S1",
-    "stop": "Otwock [ul. Karczewska- Szpital Powiatowy]",
+    "stop": "Otwock [ul. Karczewska - Szpital Powiatowy]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-21",
     "work": "06:51, 07:51, 10:46, 14:06, 15:31, 16:26, 18:21, 19:21",
@@ -271,7 +271,7 @@
   },
   {
     "line": "S1",
-    "stop": "Karczew [Mickiewicza/Ługi]",
+    "stop": "Karczew [ul. Mickiewicza / Osiedle Ługi]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-21",
     "work": "06:55, 07:55, 10:50, 14:10, 15:35, 16:30, 18:25, 19:25",
@@ -281,7 +281,7 @@
   },
   {
     "line": "S1",
-    "stop": "Karczew [Pomnik Kolei Wąskotorowej 01 02]",
+    "stop": "Karczew [pomnik kolei wąskotorowej 01 02]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-21",
     "work": "06:56, 07:56, 10:51, 14:11, 15:36, 16:31, 18:26, 19:26",
@@ -291,7 +291,7 @@
   },
   {
     "line": "S1",
-    "stop": "Karczew [STARE MIASTO 01 02]",
+    "stop": "Karczew [stare miasto 01 02]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-09-21",
     "work": "06:58, 07:58, 10:53, 14:13, 15:39, 16:33, 18:28, 19:28",
@@ -381,7 +381,7 @@
   },
   {
     "line": "S1",
-    "stop": "Warszówka [Wieś]",
+    "stop": "Warszówka [wieś]",
     "direction": "Stary Zambrzyków",
     "valid": "2026-03-01",
     "work": "07:14, 08:14, 11:09, 14:29, 15:54, 16:49, 18:44, 19:44",
@@ -461,7 +461,7 @@
   },
   {
     "line": "O1",
-    "stop": "Osieck [Rynek]",
+    "stop": "Osieck [rynek]",
     "direction": "Otwock",
     "valid": "2026-11-02",
     "work": "05:45, 06:35, 07:00, 07:45, 08:40, 10:00, 11:40, 13:30, 14:00, 14:35, 15:35, 16:35, 17:30, 17:50, 19:40",
@@ -511,7 +511,7 @@
   },
   {
     "line": "O1",
-    "stop": "Sobienie Jeziory [centrum]",
+    "stop": "Sobienie-Jeziory [centrum]",
     "direction": "Otwock",
     "valid": "2026-11-02",
     "work": "06:00, 06:50, 07:15, 08:00, 08:55, 10:15, 11:55, 13:45, 14:15, 14:50, 15:50, 16:50, 17:45, 18:05, 19:55",
@@ -621,7 +621,7 @@
   },
   {
     "line": "O1",
-    "stop": "Karczew [Częstochowska]",
+    "stop": "Karczew [ul. Częstochowska]",
     "direction": "Otwock",
     "valid": "2026-11-02",
     "work": "06:23, 07:13, 07:38, 08:23, 09:18, 10:38, 12:18, 14:08, 14:38, 15:13, 16:13, 17:13, 18:08, 18:28, 20:18",
@@ -651,7 +651,7 @@
   },
   {
     "line": "O1",
-    "stop": "Karczew [Mickiewicza/Ługi]",
+    "stop": "Karczew [ul. Mickiewicza / Osiedle Ługi]",
     "direction": "Otwock",
     "valid": "2026-09-21",
     "work": "06:28, 07:18, 07:43, 08:28, 09:23, 10:33, 12:23, 14:13, 14:43, 15:18, 16:18, 17:18, 18:13, 18:33, 20:23",
