@@ -88,7 +88,17 @@
     "sat": "07:46, 10:46, 15:46, 17:58",
     "sun": "07:46, 10:46, 15:46, 17:58",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/9.-Warszowka-wies-01.pdf"
-  },  
+  },
+  {
+    "line": "S1",
+    "stop": "Całowanie [wieś nr 19/14]",
+    "direction": "Otwock",
+    "valid": "2026-03-01",
+    "work": "06:09, 06:59, 08:14, 09:29, 13:24, 15:44, 17:09, 18:24",
+    "sat": "07:47, 10:47, 15:47, 17:59",
+    "sun": "07:47, 10:47, 15:47, 17:59",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/8.-Calowanie-wies-nr-19-14.pdf"
+  }, 
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
