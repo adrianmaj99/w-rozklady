@@ -588,5 +588,15 @@
     "sat": "06:37, 09:42, 11:57, 14:57",
     "sun": "06:37, 09:42, 11:57, 14:57",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Ostrowiec-wies-01.08.2025.pdf"
+  },
+  {
+    "line": "O1",
+    "stop": "Wygoda [wieś] Gmina Karczew",
+    "direction": "Otwock",
+    "valid": "2026-06-14",
+    "work": "06:19, 07:09, 07:34, 08:19, 09:14, 10:34, 12:14, 14:04, 14:34, 15:09, 16:09, 17:09, 18:04, 18:24, 20:14",
+    "sat": "06:39, 09:44, 11:59, 14:59",
+    "sun": "06:39, 09:44, 11:59, 14:59",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/06/14.-Wygoda-wies-01.08.25r.pdf"
   }
 ]
