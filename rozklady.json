@@ -199,6 +199,18 @@
     "sun": "08:05, 11:05, 16:05, 18:17",
     "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/09/24.-KARCZEW-Mickiewicza-LUGI.pdf"
   },
+
+   {
+    "line": "S1",
+    "stop": "Karczew [Osiedle Ługi 03]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:28, 07:18, 08:33, 09:48, 13:43, 16:03, 17:28, 18:43",
+    "sat": "08:06, 11:06, 16:06, 18:18",
+    "sun": "08:06, 11:06, 16:06, 18:18",
+    "pdfUrl": "https:\/\/woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf"
+  },
+  
   {
     "line": "O1",
     "stop": "Osieck [Rynek]",
