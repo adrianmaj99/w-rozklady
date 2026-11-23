@@ -672,6 +672,17 @@
   },
   {
     "line": "O1",
+    "stop": "Otwock Wielki [przy szkole]",
+    "direction": "Otwock",
+    "valid": "2026-09-21",
+    "work": "06:21, 07:11, 07:36, 08:21, 09:16, 10:36, 12:16, 14:06, 14:36, 15:11, 16:11, 17:11, 18:06, 18:26, 20:16",
+    "sat": "06:40, 09:45, 12:00, 15:00",
+    "sun": "06:40, 09:45, 12:00, 15:00",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/09/19.-Otwock-Wielki-przy-szkole.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "O1",
     "stop": "Otwock Mały [przy sklepie]",
     "direction": "Otwock",
     "valid": "2026-09-21",
@@ -855,6 +866,17 @@
     "sat": "07:42, 10:42, 13:42, 16:42",
     "sun": "07:42, 10:42, 13:42, 16:42",
     "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/09/20.-Otwock-Maly-przy-sklepie.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "O1",
+    "stop": "Otwock Wielki [przy szkole]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "06:57, 08:32, 09:07, 09:57, 11:27, 12:57, 13:57, 14:47, 15:47, 16:17, 16:47, 17:47, 18:47, 19:47, 20:57",
+    "sat": "07:43, 10:43, 13:43, 16:43",
+    "sun": "07:43, 10:43, 13:43, 16:43",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/09/19.-Otwock-Wielki-przy-szkole.pdf",
     "pdfHash": ""
   },
   {
