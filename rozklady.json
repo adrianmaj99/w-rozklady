@@ -1186,5 +1186,148 @@
     "sun": "",
     "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/09/22.-Karczew-STARE-MIASTO-A4.pdf",
     "pdfHash": "B7E2A4A48B8B0DB2E2C0DB0E4C97DAD1345E716F72EEB74BA888DB6613B48268"
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [Osiedle Ługi 03]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "07:56, 12:21, 17:56, 20:01",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/25.-KARCZEW-os.-LUGi-03.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [Osiedle Ługi 03]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:00, 12:25, 18:00, 20:05",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/9-Karczew-UL.-CZESTOCHOWSKA.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Wygoda [przy DW801]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:05, 12:30, 18:05, 20:10",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/14.-Wygoda-przy-DW801.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Ostrówiec",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:07, 12:32, 18:07, 20:12",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/12-Ostrowiec-szkrzyzowanie-DW801.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobiekursk [przy szkole]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:08, 12:33, 18:08, 20:13",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/12.-Sobiekursk-przy-szkole-01.08.25r.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobiekursk [skrzyżowanie]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:09, 12:34, 18:09, 20:14",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/11.-Sobiekursk-skrzyzowanie-01.08.25.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Piotrowice [DW801]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:12, 12:37, 18:12, 20:17",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/10.-Piotrowice-DW801-01.08.25.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Dziecinów [wieś]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:14, 12:39, 18:14, 20:19",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/9.-Dziecinow-wies-01.08.2025r.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Radwanków Królewski",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:19, 12:44, 18:19, 20:24",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/7.-Radwankow-Krolewski-Przy-dz.-13-3-bez-S1-01.08.2025r.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobienie Jeziory [centrum]",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:21, 12:46, 18:21, 20:26",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/1.-Sobienie-Jeziory-Centrum-01.08.2025r.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobienie Szlacheckie",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:24, 12:49, 18:24, 20:29",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/5.-Sobienie-Szlacheckie-skrzyzowanie-01.08.25.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobienki I",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:27, 12:52, 18:27, 20:32",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/4.-Sobienki-I-01.08.2025r.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Sobienki II",
+    "direction": "Osieck",
+    "valid": "2026-11-02",
+    "work": "08:28, 12:53, 18:28, 20:33",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/3.-Sobienki-II-01.08.2025r.pdf",
+    "pdfHash": ""
   }
 ]
