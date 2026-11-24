@@ -1032,5 +1032,17 @@
     "sun": "08:17, 11:17, 14:17, 17:17",
     "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/10/2.-Osieck-szkola-01.08.25.pdf",
     "pdfHash": "A53007AE239D61AE49F3C0C61876413C32CB0A3A3AF3F90CB2D21B0B3E572943"
-  }
+  },
+  {
+    "line": "O1",
+    "stop": "Warszawa [METRO IMIELIN]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:25, 11:50, 17:25, 19:30",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/25-Warszawa-Metro-Imielin.pdf",
+    "pdfHash": "bc2f463a668e05e381f33dd652357e0f8c67041800f0ba265fb65865f01f5037"
+  },
+  bc2f463a668e05e381f33dd652357e0f8c67041800f0ba265fb65865f01f5037
 ]
