@@ -1043,5 +1043,148 @@
     "sun": "",
     "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/25-Warszawa-Metro-Imielin.pdf",
     "pdfHash": "BC2F463A668E05E381F33DD652357E0F8C67041800F0BA265FB65865F01F5037"
+  },
+  {
+    "line": "I2",
+    "stop": "Warszawa [Bysłwska]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:37, 12:02, 17:37, 19:41",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/24-Warszawa-Byslawska.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Warszawa [Ks. Malinowskiego]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:40, 12:05, 17:40, 19:45",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/23-Jozefow-Ks.-Malinowskiego.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Podleśna]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:41, 12:06, 17:41, 19:46",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/22-Jozefow-Podlesna.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Nowa Wieś]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:42, 12:07, 17:42, 19:47",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/21-Jozefow-Nowa-Wies-01.08.25.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Polna]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:43, 12:08, 17:43, 19:48",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/20-Jozefow-Polna.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Świdry Małe]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:44, 12:09, 17:44, 19:49",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/7.-Jozefow-Swidry-Male.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Wyszyńskiego]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:45, 12:10, 17:45, 19:50",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/8.-Jozefow-Wyszynskiego.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Drogowców]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:46, 12:11, 17:46, 19:51",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/17-Jozefow-Drogowcow.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Józefów [Górki]",
+    "direction": "Osieck",
+    "valid": "2026-03-07",
+    "work": "07:47, 12:12, 17:47, 19:52",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/16-Jozefow-Gorki.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [Miziołka]",
+    "direction": "Osieck",
+    "valid": "2026-06-14",
+    "work": "07:51, 12:16, 17:51, 19:56",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/2-Karczew-Miziolka.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [Wysockiego]",
+    "direction": "Osieck",
+    "valid": "2026-06-14",
+    "work": "07:52, 12:17, 17:52, 19:57",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/12.-Karczew-Wysockiego-01.08.25-1.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [Bednarska]",
+    "direction": "Osieck",
+    "valid": "2026-06-14",
+    "work": "07:53, 12:18, 17:53, 19:58",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/06/14-Karczew-Bednarska-1.pdf",
+    "pdfHash": ""
+  },
+  {
+    "line": "I2",
+    "stop": "Karczew [stare miasto 01 02]",
+    "direction": "Osieck",
+    "valid": "2026-09-21",
+    "work": "07:54, 12:19, 17:54, 19:59",
+    "sat": "",
+    "sun": "",
+    "pdfUrl": "https://woloszka.com.pl/wp-content/uploads/2026/09/22.-Karczew-STARE-MIASTO-A4.pdf",
+    "pdfHash": "B7E2A4A48B8B0DB2E2C0DB0E4C97DAD1345E716F72EEB74BA888DB6613B48268"
   }
 ]
